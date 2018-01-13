@@ -23,5 +23,10 @@ public class HomeActivity extends AppCompatActivity {
     }
 
 
+    public  void  update3(String msg){
+        Toast.makeText(this, "怎么创建一个本地仓库", Toast.LENGTH_SHORT).show();
+    }
+
+
 
 }
