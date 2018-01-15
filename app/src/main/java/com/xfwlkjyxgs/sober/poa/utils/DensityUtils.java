@@ -13,8 +13,6 @@ import android.util.TypedValue;
 /**
  * 单位转换的工具类
  */
-
-
 public class DensityUtils {
 
     public DensityUtils() {
