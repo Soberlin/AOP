@@ -11,6 +11,9 @@ package com.xfwlkjyxgs.sober.poa.utils;
  * 系统常量类
  */
 public class Config {
-
+    /**
+     * 压缩比例
+     */
+    public static float DEFAULT_IMAGE_SIZE;
 
 }
