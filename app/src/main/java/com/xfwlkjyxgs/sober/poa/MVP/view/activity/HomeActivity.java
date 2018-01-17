@@ -1,4 +1,4 @@
-package com.xfwlkjyxgs.sober.poa.view;
+package com.xfwlkjyxgs.sober.poa.MVP.view.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

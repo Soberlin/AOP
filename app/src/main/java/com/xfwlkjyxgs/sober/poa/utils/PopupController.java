@@ -120,7 +120,7 @@ public  class PopupController{
         /**
          * 弹窗的宽度和高度
          */
-        public int mWidth,mHeight ;
+        public int mWidth,mHeight;
         public boolean isShowBg, isShowAnim;
         /**
          * 透明度程度

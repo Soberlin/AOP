@@ -111,9 +111,6 @@ public class CommonPopupWindow  extends PopupWindow{
             return popupWindow;
         }
 
-
-
-
     }
 
 
