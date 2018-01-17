@@ -1,4 +1,4 @@
-package com.xfwlkjyxgs.sober.poa.view.adapter;
+package com.xfwlkjyxgs.sober.poa.MVP.view.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
